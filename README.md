@@ -1,9 +1,7 @@
-# Real estate web application
+# PHP Online Store
 
 ## About
-
-Real estate web application built in JavaEE using MVC desing pattern with (Servlet/JSP/JavaBeans), also using JavaScript and jQuery.
-I actually rewrite whole app, i was build earlier, with intension of finishing my bachelor thesis. To satisfy the BSC thesis report format i focused on functionalities, that are most important for real estate agency.
+ 
 
 ## Project scope
 
@@ -11,9 +9,7 @@ I actually rewrite whole app, i was build earlier, with intension of finishing m
 
 - Authorization:
   - Administrator
-  - Real estate agent
-  - Client - person who wanna sale or rent real estate
-  - Customer - person interested in buying or renting real estate
+  - Customer
 
 Real estate listings can be created, modified or delete by the real estate agent or agency client. Depending on a type of real estate listing, there are different types of information that have to be provided.
 There are three type of listings:
@@ -33,19 +29,24 @@ There are three type of listings:
 - Messaging/Chat service (inbox, outbox, write new message, reply)
 - Reservation system (daily rent type of real estates)
 - Review/rate previously used real estates (cutomers, daily rent type)
-
-## Project development
-
-During development of this project i used simplified Larman's method, with these phases :
-
-1. Collecting requirements from user
-1. Requirements analysis
-1. Design
-1. Implementation
-1. Testing
-
-You can see project documentation [**here**](https://github.com/svire/RealEstateWebApp/tree/master/documentation/docs.pdf).
+ 
 
 ## Preview
 
-Take a look at gallery [**here**](https://github.com/svire/RealEstateWebApp/tree/master/screenshots).
+Search by category.
+![](screenshots/categ.png)
+
+Product info.
+![](screenshots/info2.png)
+
+List of orders.
+![](screenshots/orders.png)
+
+### Admin panel
+
+Promoted products.
+![](screenshots/promoted.png) 
+
+Shipment details.
+![](screenshots/orderdetails.png)  
+
