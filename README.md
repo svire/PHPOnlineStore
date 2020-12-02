@@ -35,20 +35,20 @@ There are three type of listings:
 
 ## User panel
 
-### Search by category.
+### Search by category:
 ![](screenshots/categ.png)
 
-### Product info.
+### Product info:
 ![](screenshots/info2.png)
 
-### List of orders.
+### List of orders:
 ![](screenshots/orders.png)
 
 ## Admin panel
 
-### romoted products.
+### romoted products:
 ![](screenshots/promoted.png) 
 
-###Shipment details.
+### Shipment details:
 ![](screenshots/orderdetails.png)  
 
