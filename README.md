@@ -19,7 +19,7 @@
 
 ## Admin panel
 
-### romoted products:
+### Promoted products:
 ![](screenshots/promoted.png) 
 
 ### Shipment details:
